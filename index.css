@@ -1,0 +1,47 @@
+html {
+  background-color: #53c8d1;
+}
+
+body {
+  text-align: center;
+  padding-left: 20%;
+  width: 60%;
+  height: auto;
+  margin-top: 12%;
+}
+
+.kepala {
+  background-color: #75ddf0;
+  height: 100px;
+}
+
+.menu {
+  background-color: #5fd1fc;
+  height: auto;
+  line-height: 5px;
+}
+
+.footer {
+  background-color: #39adff;
+  height: 50px;
+  line-height: 50px;
+}
+
+button {
+  width: 500px;
+  height: 50px;
+  border: 1px;
+  border-radius: 15px;
+  background-color: #fff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.DB {
+  margin-top: 0px;
+  line-height: 45px;
+}
+
+.php{
+  margin: 0px;
+}

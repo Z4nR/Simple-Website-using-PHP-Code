@@ -1,0 +1,55 @@
+html {
+  background-color: #53c8d1;
+}
+
+body {
+  text-align: center;
+  padding-left: 20%;
+  width: 60%;
+  height: auto;
+  margin-top: 12%;
+  border-radius: 10px;
+}
+
+.kepala {
+  background-color: #75ddf0;
+  height: 100px;
+  line-height: 100px;
+}
+
+.tabel {
+  padding-left: 14.5%;
+  padding-right: 25%;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  height: auto;
+  background-color: #5fd1fc;
+}
+
+.footer {
+  background-color: #39adff;
+  height: 50px;
+  line-height: 50px;
+}
+
+table {
+  width: 600px;
+  text-align: justify;
+  line-height: 40px;
+  background-color: #fff;
+  text-align: center;
+}
+
+a {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+button {
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.bawah {
+  padding-left: 15%;
+}
